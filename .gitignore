@@ -1,5 +1,1 @@
-# Maven
-target/
-*.jar
-*.war
-*.ear
+/src/bin/*
